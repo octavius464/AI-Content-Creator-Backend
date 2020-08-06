@@ -1,3 +1,3 @@
 # AI_marketer_backend
  A Website for an Automated Content Creation Engine
-![picture](Screenshot (19).png)
+![picture](uploads/image.png)
